@@ -5,4 +5,10 @@
 ** Built by Jay Kanakiya ( @techiejayk )
 **/
 
+"use strict";
+
 var App = angular.module("example",[]);
+
+App.controller("ExmpCtrl",function  ($scope) {
+	//
+});
